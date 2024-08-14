@@ -3,6 +3,7 @@
 Application made for a bank to automate the process of making attestations.
 It uses phpword to generate a Word document based on the info provided in the form by the user
 The user can access, edit, or delete any previously made attestations. 
+
 The database is stored in an sql file called attest.sql to test you will need to change the settings in the app_local.php(data sources(default)) file in the config folder 
 then php bin/cake.php server in the terminal
 
