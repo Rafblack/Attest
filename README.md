@@ -1,3 +1,10 @@
+
+
+Application made for a bank to automate the process of making attestations.
+It uses phpword to generate a Word document based on the info provided in the form by the user
+The user can access, edit, or delete any previously made attestations. 
+
+
 # CakePHP Application Skeleton
 
 ![Build Status](https://github.com/cakephp/app/actions/workflows/ci.yml/badge.svg?branch=master)
@@ -52,7 +59,3 @@ The app skeleton uses [Milligram](https://milligram.io/) (v1.3) minimalist CSS
 framework by default. You can, however, replace it with any other library or
 custom styles.
 
-
-application made for a bank to automate the process of making attestations.
-It uses phpword to generate a Word document based on the info provided in the form by the user
-The user can access, edit, or delete any previously made attestations. 
